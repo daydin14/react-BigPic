@@ -2,3 +2,6 @@
   font-family: sans-serif;
   text-align: center;
 }
+.thumb:active {
+  border: 10px solid green;
+}
